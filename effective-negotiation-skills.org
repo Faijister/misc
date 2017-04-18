@@ -2,3 +2,4 @@
 #+TEACHER: Paul Zhang（张德光，来自台湾）
 #+AUTHOR: EFUUXII
 #+DATE: <2017-04-18 Tue>
+#+DURATION: <2017-04-11 Tue> - <2017-04-12 Wed>
