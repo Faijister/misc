@@ -1,0 +1,4 @@
+* Effective Negotiation Skills
+#+TEACHER: Paul Zhang（张德光，来自台湾）
+#+AUTHOR: EFUUXII
+#+DATE: <2017-04-18 Tue>
